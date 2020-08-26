@@ -7,8 +7,10 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.8.3",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.19.0",
     "busboy-body-parser": "^0.3.2",
+    "connect-route": "^0.1.5",
     "jquery": "^3.4.1",
     "meteor-node-stubs": "^1.0.0"
   },
